@@ -1,0 +1,11 @@
+TP Java Script     API
+j ai essayer plusieurs api :
+punki
+tvmaze 
+open library
+
+et je n est pas réussi a faire le lien entre notre exercice pokemon et l exercice demander.
+j ai buté sur listing de ma fonction qui me renvoyer a  ex : {00}  
+ca m afficher undefined j ai repris l exercice qu on  avez developper sur les chien pour trouvé un lien mais  sans succès .
+
+j ai du rependre le js pokemon a plusieurs reprise car trop d erreur token sintax
